@@ -12,13 +12,13 @@ A live demo can be found here: http://notanothervlog.com/index.php
 # Concept
 <br>
 For our API challenge entry, we decided to mask the API data in the theme of a university. By using a university theme we displayed the data in an entertaining way that still allows interesting statistics about the game to show through. 
-<br>
+<br><br>
 On each page, except on the homepage and about page we implemented the API data to immerse the viewer in a world where the University of Rift Fighters exists. 
-<br>
+<br><br>
 Our theme was designed to incorporate URF to the nth degree by making a university not only involving his name, University of Rift Fighters, but also making him the university mascot. 
-<br>
+<br><br>
 We wanted to treat the champions as students being graded in particular areas of expertise. You can see this in our demo by either logging in as a student from the hompage or by going to the student page and clicking a specific champion. 
-<br>
+<br><br>
 There is a lot of room for expansion on the University of rift fighters theme. That being said we believe we have created the basis for a “university” website and show its potential for the future. 
 <br>
 <br>
