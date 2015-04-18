@@ -1,12 +1,21 @@
 <? 
-$dhost = '*Removed*';
-$dusername = '*Removed*'; // database user
-$dpassword = '*Removed*'; // database pass
+$dhost = '64.131.75.119';
+$dusername = 'p2yt'; // database user
+$dpassword = '106518sm106518'; // database pass
 $ddatabase = 'lol_urf'; // database name
 $con = mysql_connect($dhost, $dusername, $dpassword) or die('Offline'); 
 mysql_select_db($ddatabase, $con);
 
-$api_key='*Removed*';
+$logtime=time();
+@$ip=$_SERVER['REMOTE_ADDR'];
+@$page=$_SERVER['PHP_SELF'];
+@$ref=$_SERVER['HTTP_REFERER'];
+@$browser=$_SERVER['HTTP_USER_AGENT'];
+mysql_query("INSERT INTO lol_urf.new_log_alltraffic (time, ip, page, ref, browser) VALUES('$logtime', '$ip', '$page', '$ref', '$browser')");
+
+
+
+$api_key='0e512ca1-d412-4c1f-b3d7-e902b7ca7c18';
 
 $config['menu']="<table id='settablewidth' width='1000px' border='0' align='center'>
 <tr>
