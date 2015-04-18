@@ -7,7 +7,7 @@
 }
 
 body {
-	background-image: url(images/background.jpg);
+	background-image: url(images/urfbackground.png);
 }
 
 /* *************************************** */
@@ -67,12 +67,12 @@ body {
   height: 55px;
   z-index: 3;
   background: #222222;
-  background: -moz-linear-gradient(top, #555555 0%, #222222 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #555555), color-stop(100%, #222222));
-  background: -webkit-linear-gradient(top, #555555 0%, #222222 100%);
-  background: -o-linear-gradient(top, #555555 0%, #222222 100%);
-  background: -ms-linear-gradient(top, #555555 0%, #222222 100%);
-  background: linear-gradient(to bottom, #555555 0%, #222222 100%);
+  background: -moz-linear-gradient(top, #000000 0%, #002046 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #000000), color-stop(100%, #002046));
+  background: -webkit-linear-gradient(top, #000000 0%, #002046 100%);
+  background: -o-linear-gradient(top, #000000 0%, #002046 100%);
+  background: -ms-linear-gradient(top, #000000 0%, #002046 100%);
+  background: linear-gradient(to bottom, #000000 0%, #002046 100%);
 }
 #cssmenu #bg-four {
   bottom: 4px;
@@ -113,12 +113,12 @@ body {
 #cssmenu ul li:hover,
 #cssmenu ul li.active {
   background: #0f71ba;
-  background: -moz-linear-gradient(top, #6ea8bc 0%, #0c1a25 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6ea8bc), color-stop(100%, #0c1a25));
-  background: -webkit-linear-gradient(top, #6ea8bc 0%, #0c1a25 100%);
-  background: -o-linear-gradient(top, #6ea8bc 0%, #0c1a25 100%);
-  background: -ms-linear-gradient(top, #6ea8bc 0%, #0c1a25 100%);
-  background: linear-gradient(to bottom, #6ea8bc 0%, #0c1a25 100%);
+  background: -moz-linear-gradient(top, #82f0f6 0%, #002046 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #82f0f6), color-stop(100%, #002046));
+  background: -webkit-linear-gradient(top, #82f0f6c 0%, #002046 100%);
+  background: -o-linear-gradient(top, #82f0f6 0%, #002046 100%);
+  background: -ms-linear-gradient(top, #82f0f6 0%, #002046 100%);
+  background: linear-gradient(to bottom, #82f0f6 0%, #002046 100%);
 }
 #cssmenu ul li a:hover,
 #cssmenu ul li.active > a {
@@ -134,7 +134,7 @@ border-radius: 5px;
 }
 .maintable {
 border-style: solid;
-border-left: thick solid #222222;
-border-right: thick solid #222222;
-border-bottom: thick solid #222222;
+border-left: thick solid #002046;
+border-right: thick solid #002046;
+border-bottom: thick solid #002046;
 }
