@@ -1,10 +1,12 @@
-# lol_api
-URF API Challenge
+# 2015 URF API Challenge
+
 
 Submission for the 2015 Riot URF API Challenge by:<br>
 Spencer McDonald (Wylennissa:NA)<br>
 Andrew Witcher (Drewsephski:NA)<br>
 <br>
+<br>
+# Live Demo
 <br>
 A live demo can be found here: http://notanothervlog.com/index.php
 <br>
