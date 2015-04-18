@@ -7,6 +7,12 @@ Andrew Witcher (Drewsephski:NA)
 
 
 
+Needed assests include: 
+images folder
+videos (in .mp4 and .ogg)
+
+Images folder can be downloaded here: http://notanothervlog.com/images.rar
+Videos can be downloaded here: http://notanothervlog.com/videos.rar
 
 
 
